@@ -1,0 +1,5 @@
+# USE pip install -r requirements.txt
+requirements.txt
+googletrans
+SpeechRecognition
+gtts
